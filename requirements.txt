@@ -15,3 +15,5 @@ aiohttp
 motor
 lexica-api
 bs4
+flask
+flask_restful
